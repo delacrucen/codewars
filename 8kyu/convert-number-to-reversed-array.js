@@ -16,4 +16,4 @@ Example:
 console.log(digitize(5465468))
 
 // Expected output
-// [5, 4, 6, 5, 4, 6, 8]
+// [8, 6, 4, 5, 6, 4, 5]
