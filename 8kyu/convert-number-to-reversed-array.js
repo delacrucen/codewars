@@ -9,7 +9,7 @@ Example:
 // // Program
   function digitize(n) {
     //code here
-    return String(n).split('').reverse().map(e => Number(e));  
+    return String(n).split("").reverse().map(e => Number(e));
   }
 
 // Console testing
