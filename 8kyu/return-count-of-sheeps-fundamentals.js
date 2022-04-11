@@ -7,7 +7,9 @@ Given a non-negative integer, 3 for example, return a string with a murmur: "1 s
 // Program
 function countSheeps(num){
   let sheeps = "";
-  for (let i=1; i <= num; i++) { sheeps += `${i} sheep...`; }
+  for (let i=1; i <= num; i++) { 
+    sheeps += `${i} sheep...`; 
+  }
   return sheeps;
 }
 
@@ -15,4 +17,4 @@ function countSheeps(num){
 console.log(countSheeps(10));
 
 // Expected output
-// "Doe John"
+// "1 sheep...2 sheep...3 sheep...4 sheep...5 sheep...6 sheep...7 sheep...8 sheep...9 sheep...10 sheep..."
