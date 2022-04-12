@@ -2,7 +2,7 @@
 The goal of this repository is to upload my daily solutions for the exercises I face on codewars!
 
 # Technology used
-For these challenges i'll use JavaScript.
+For these challenges I'll use JavaScript.
 
 # The challenge
 * Solve excercises daily.
