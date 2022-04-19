@@ -1,5 +1,5 @@
 # Codewars excercises
-The goal of this repository is to upload my daily solutions for the exercises I face on codewars!
+The goal of this repository is to upload my daily solutions for the exercises I face on codewars.
 
 # Technology used
 For these challenges I'll use JavaScript.
