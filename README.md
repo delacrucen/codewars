@@ -8,4 +8,4 @@ For these challenges I'll use JavaScript.
 * Solve excercises daily.
 * Stay consistent as much as I can.
 * Improve my problem solving skills.
-* Learn creative solutions and best practices.
+* Learn best practices and creative solutions.
