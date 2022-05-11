@@ -33,8 +33,6 @@ function solution(string){
   if(os === 0 && xs === 0){
     return false;
   }
-  console.log(os)
-  console.log(xs)
 }
 
 //Console testing
